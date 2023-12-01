@@ -51,3 +51,8 @@ body, html {
     height: 50vh;
     width: 100%;
 }
+
+.logo {
+    height: 50px; /* Eller den höjd du föredrar */
+    margin-right: 10px;
+}
